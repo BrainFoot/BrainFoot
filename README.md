@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm BrainFoot</h1>
 <h3 align="center">A Java and JavaScript Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainfoot&label=Profile%20views&color=0e75b6&style=flat" alt="brainfoot" /> </p>
-
 - 🔭 I’m currently working on [Raizel](https://raizel-bot.xyz/)
 
 - 🌱 I’m currently learning **Python**
