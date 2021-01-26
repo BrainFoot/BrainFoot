@@ -33,31 +33,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brainfoot" alt="brainfoot" /></a> </p>
 
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
-on:
-  # Schedule updates
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  push: {branches: ["master", "main"]}
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: BrainFoot
-          template: classic
-          base: ""
-          config_animated: yes
-          config_timezone: Europe/Berlin
-          plugin_languages: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://codingcafe.eu/
