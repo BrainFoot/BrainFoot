@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Psyro770](https://github.com/BrainFoot)
+- 👨‍💻 All of my projects are available at [https://github.com/Psyro770](https://github.com/Psyro770)
 
 - 💬 Ask me about **Discord.js**
 
