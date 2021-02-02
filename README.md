@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm BrainFoot</h1>
+<h1 align="center">Hi 👋, I'm Psyro</h1>
 <h3 align="center">A Java and JavaScript Developer</h3>
 
 - 🔭 I’m currently working on [Raizel](https://raizel-bot.xyz/)
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BrainFoot](https://github.com/BrainFoot)
+- 👨‍💻 All of my projects are available at [https://github.com/Psyro770](https://github.com/BrainFoot)
 
 - 💬 Ask me about **Discord.js**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://youtube.com/c/7alex47Rap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coding café" height="30" width="40" /></a>
+<a href="https://youtube.com/c/Codingcafe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coding café" height="30" width="40" /></a>
 <a href="https://discord.gg/5kv3azkbdk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="5kv3azkbdk" height="30" width="40" /></a>
 </p>
 
