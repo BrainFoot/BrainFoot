@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord.js**
 
-- 📫 How to reach me **admin@codingcafe.eu**
+- 📫 How to reach me **mail@psyro.de**
 
 - ⚡ Fun fact **I think im Funny lol**
 
