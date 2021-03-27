@@ -9,14 +9,14 @@
 
 - 💬 Ask me about **Discord.js**
 
-- 📫 How to reach me **mail@psyro.de**
+- 📫 How to reach me **mail@psyro.me**
 
 - ⚡ Fun fact **I think im Funny lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://youtube.com/channel/UCIMuvBppXVpPJk6fEuxjUKQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="coding café" height="30" width="40" /></a>
-<a href="https://discord.gg/5kv3azkbdk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="5kv3azkbdk" height="30" width="40" /></a>
+<a href="https://dc.psyro.de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="5kv3azkbdk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,9 +25,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codingcafe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codingcafe" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyro770&show_icons=true&locale=en&layout=compact" alt="brainfoot" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyro770&show_icons=true&locale=en&layout=compact" alt="psyro770" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brainfoot&show_icons=true&locale=en" alt="brainfoot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brainfoot&show_icons=true&locale=en" alt="psyro770" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyro770&" alt="psyro770" /></p>
 
