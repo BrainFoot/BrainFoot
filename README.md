@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Psyro</h1>
 <h3 align="center">I love to Develop stuff lul :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psyro770&label=Profile%20views&color=0e75b6&style=flat" alt="psyro770" /> </p>
 
 - 🔭 I’m currently working on [XEFOX](http://xefox.de/)
 
 - 🌱 I’m currently learning **C++ / C#**
 
-- 👨‍💻 More details aboout me are on my [Website](https://psyro.de/)
+- 👨‍💻 More details about me are on my [Website](https://psyro.de/)
 
 - 📝 I regularly write articles on my [Blog](https://blog.psyro.de/)
 
