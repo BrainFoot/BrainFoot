@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Psyro</h1>
+<h1 align="center">Hi 👋, I'm Psyro aka Alex</h1>
 <h3 align="center">I love to Develop stuff lul :)</h3>
 
 
